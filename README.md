@@ -1,1 +1,3 @@
 # marketflutterwoocomorce
+Consumer Key : ck_aa31690482c36ae2a472e46564ed34825982539e
+consumer Secret : cs_f20897328fc21a21b8f06a9ff7f7ebfba1f1b926
