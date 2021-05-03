@@ -1,5 +1,15 @@
+<!--Muhammad Reza Pahlepi(181420069)
+Apriyo Fadli(181420091)
+Arif Athallah(181420065)
+Trima Subhan Perbawa(181420055)
+
+Bagian Muhammad Reza Pahlepi(181420069)
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.newsapi">
+    <!-- untuk memberikan izin akses internet di android   -->
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="newsapi"
         android:icon="@mipmap/ic_launcher">
